@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "aulavercel",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
